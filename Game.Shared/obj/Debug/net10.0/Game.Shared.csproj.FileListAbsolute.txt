@@ -1,0 +1,11 @@
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\bin\Debug\net10.0\Game.Shared.deps.json
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\bin\Debug\net10.0\Game.Shared.dll
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\bin\Debug\net10.0\Game.Shared.pdb
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\obj\Debug\net10.0\Game.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\obj\Debug\net10.0\Game.Shared.AssemblyInfoInputs.cache
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\obj\Debug\net10.0\Game.Shared.AssemblyInfo.cs
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\obj\Debug\net10.0\Game.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\obj\Debug\net10.0\Game.Shared.dll
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\obj\Debug\net10.0\refint\Game.Shared.dll
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\obj\Debug\net10.0\Game.Shared.pdb
+C:\Users\Froxxin\Desktop\PolluxEngine\Game.Shared\obj\Debug\net10.0\ref\Game.Shared.dll

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Game.Client/Game.Client.csproj" Id="16ab7af9-2447-4b4d-9302-5a0beceeb26a" />
+  <Project Path="Game.Server/Game.Server.csproj" Id="44218607-8d5e-4988-bb2f-b42fdc0b6f59" />
+  <Project Path="Game.Shared/Game.Shared.csproj" Id="c297bcf0-471e-4849-8579-0cd92a0cdab1" />
+</Solution>
